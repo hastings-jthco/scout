@@ -1,5 +1,5 @@
 // @OnlyCurrentDoc
-// Date: 30Mar26
+// Date: 30Mar26; expires 01Apr26
 function onOpen() {
   const ui = SpreadsheetApp.getUi();
   ui.createMenu('Custom Menu')
